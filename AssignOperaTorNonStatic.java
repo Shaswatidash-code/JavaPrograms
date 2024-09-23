@@ -46,3 +46,5 @@ public class AssignOperaTorNonStatic {
 	}
 
 }
+
+//Operators using non static method-Assignment 2

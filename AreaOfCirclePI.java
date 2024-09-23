@@ -25,3 +25,5 @@ public class AreaOfCirclePI
 	}
 
 }
+
+//Assignment 12: Area of circle by using Math Class

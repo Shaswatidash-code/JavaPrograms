@@ -32,4 +32,4 @@ public class AssignmentStaticMethod {
 	}
 
 }
-//call 5 static method inside the main method
+//call 5 static method inside the main method-Assignment 1

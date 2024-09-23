@@ -11,3 +11,5 @@ public class MathThreadClass {
 	}
 
 }
+
+//Assignment 13: WAP on Thread class.

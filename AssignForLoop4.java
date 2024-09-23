@@ -1,9 +1,8 @@
 package basicsprograms;
 
-public class ForLoop2 {
-
+public class AssignForLoop4 {
 	public static void main(String[] args) {
-		for(int i = 1;i<=10;i++)
+		for(int i = 10; i>=1;i--)
 		{
 			System.out.println(i);
 		}
@@ -11,4 +10,4 @@ public class ForLoop2 {
 
 }
 
-//Assignment:10-print 1 to 100 using For Loop
+//Assignment 11: Print 10 to 1 using For Loop

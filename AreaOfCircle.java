@@ -16,3 +16,5 @@ public class AreaOfCircle {
 	}
 
 }
+
+//Find area of circle using Scanner class-Assignment -5
