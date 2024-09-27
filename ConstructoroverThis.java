@@ -1,30 +1,37 @@
-package basicsprograms;
+package assignments;
 
-public class ConstructoroverThis {
-	ConstructoroverThis()
+public class ConstructorOverThis {
+	ConstructorOverThis()
 	{
-		this(45);
-		System.out.println("1st");
+		System.out.println("My 1st constructor");
 	}
-	ConstructoroverThis(int a)
+	ConstructorOverThis(int a, double b)
 	{
-		this(100,200);
-		System.out.println("2nd");
+		this();
+		System.out.println("My 2nd constructor");
 	}
-	ConstructoroverThis(int a,int b)
+	ConstructorOverThis(int a)
 	{
-		this(28,"Arun");
-		System.out.println("3rd");
+		this(80,0.78);
+		System.out.println("My 3rd constructor");
 	}
-	ConstructoroverThis(int a,String b)
+	ConstructorOverThis(int a, String b, char c)
 	{
-		System.out.println("4th");
+		this(6);
+		System.out.println("My 4th constructor");
+	}
+	ConstructorOverThis(double b)
+	{
+		this(5,"Tree",'S');
+		System.out.println("My 5th constructor");
 	}
 
 	public static void main(String[] args) {
-		new ConstructoroverThis();
+		new ConstructorOverThis(0.05);
+		
+		
 	}
 
 }
 
-//this calling statement-Assignment 19
+//Assignment 18: WAP on parameterized and non- parameterized this calling statement in java
