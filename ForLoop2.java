@@ -11,4 +11,4 @@ public class ForLoop2 {
 
 }
 
-//Assignment:10-print 1 to 100 using For Loop
+//Assignment:10-print 1 to 10 using For Loop

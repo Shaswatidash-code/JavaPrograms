@@ -13,3 +13,5 @@ public class AreaOfSquare {
 	}
 
 }
+
+//Assignment 8: Find area of square using Scanner class

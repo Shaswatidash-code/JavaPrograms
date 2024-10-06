@@ -23,4 +23,4 @@ public class SuperKeyword {
 
 }
 
-//Assignment 20: WAP on Method Overriding and use the super keyword
+//Assignment 21: WAP on Method Overriding using super keyword in java

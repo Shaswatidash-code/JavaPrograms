@@ -19,3 +19,5 @@ public class AreaOfTriangle {
 	}
 
 }
+
+//Assignment 7: Find area of Triangle using scanner class

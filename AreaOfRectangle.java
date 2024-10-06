@@ -15,3 +15,5 @@ public class AreaOfRectangle {
 	}
 
 }
+
+//Assignment 8: Find area of Rectangle using Scanner class
