@@ -15,7 +15,10 @@ public class Constrauctor_Class {
 	}
 
 	public static void main(String[] args) {
+		//this is the 1st type to create the object
 		Constrauctor_Class c1 =new Constrauctor_Class();
+		
+		//this is the 2nd type to create an object
 		new Constrauctor_Class(500);
 		new Constrauctor_Class(500,1000);
 	}

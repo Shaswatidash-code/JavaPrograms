@@ -1,4 +1,4 @@
-package package1;
+package basicsprograms;
 
 public class One {
 	static void add()

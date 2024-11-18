@@ -1,5 +1,5 @@
 package basicsprograms;
-class One{ //super class
+class OneOne{ //super class
 	static void add()
 	{
 		System.out.println("add");
@@ -10,7 +10,7 @@ class One{ //super class
 	}
 }
 
-public class SingleLevelInheritance extends One{ //sub class
+public class SingleLevelInheritance extends OneOne{ //sub class
 	static void mul()
 	{
 		System.out.println("mul");

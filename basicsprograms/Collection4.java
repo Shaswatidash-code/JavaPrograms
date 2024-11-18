@@ -1,6 +1,7 @@
 package basicsprograms;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.ListIterator;
 
@@ -15,6 +16,7 @@ public class Collection4 {
 		l1.add(706);
 		l1.add(607);
 		l1.add(67);
+		Collections.sort(l1);
 		ListIterator l2 = l1.listIterator();
 		System.out.println("Forward");
 		while(l2.hasNext())
