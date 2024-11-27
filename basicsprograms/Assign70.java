@@ -29,4 +29,5 @@ public class Assign70 {
 
 }
 
-//Assignment 70: WAP using the Map interface and iterate over its entries using for loop 
+//Assignment 70: WAP using the Map interface and iterate over 
+//its entries using for loop 
